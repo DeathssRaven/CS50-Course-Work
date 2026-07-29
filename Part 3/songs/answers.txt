@@ -1,0 +1,5 @@
+I would characterize someones music by the average TEMPO, ENERGY and VALENCE. This way you can see the overall style of music by those aspects.
+
+To Find the persons music choice better, i would take all the averages of TEMPO,ENERGY and VALENCE but also take into account their most listened to asrtists and genres to better catogarize their music style.
+
+Although this might work for most people, it might fail to work with people who listen to a wide variaty of genres and artists.  That being said, people who lisent to all types of music, wouldnt minf the randomness of the choices given.

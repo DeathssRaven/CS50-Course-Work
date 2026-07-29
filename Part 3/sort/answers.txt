@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: I know due to the fact that it has the best lower bound when used with sorted numbers.
+
+sort2 uses: Merge sort
+
+How do you know?: Due to the fact that it is the fastest ( out of the 3) when used to sort random numbers.
+
+sort3 uses: Selection sort
+
+How do you know?: I know because it has the most consistent results over the 3 different sorted text files.
