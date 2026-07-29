@@ -1,1 +1,0 @@
-SELECT title FROM movies WHERE YEAR > 2017 ORDER BY title;
